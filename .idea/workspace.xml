@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb1e64a9-1000-40a7-b96c-4adc76267d9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Test.java" afterDir="false" />
+    <list default="true" id="fb1e64a9-1000-40a7-b96c-4adc76267d9c" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/baekjoon/colorweakness/ColorWeakness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/byEnum/Banking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/byEnum/DivertByEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/byEnum_AgePolicy/AgePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/byEnum_AgePolicy/DivertByEnum_AgePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/byIf/DivertByIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicGrammar/divert/bySwitch/DivertBySwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -28,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HIqf4o6qsKT7ju0M5ZXCEY9qjL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,9 +45,83 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "zulu-11"
+    "jdk.selected.JAVA_MODULE": "zulu-11",
+    "last_opened_file_path": "C:/Users/j3kku/Documents/Programming/Java_Algorithm/baekjoon/colorweakness",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\j3kku\Documents\Programming\Java_Algorithm\baekjoon\colorweakness" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basicGrammar.divert.byIf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DivertByIf">
+    <configuration name="DivertByEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.divert.byEnum.DivertByEnum" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.divert.byEnum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivertByEnum_AgePolicy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.divert.byEnum_AgePolicy.DivertByEnum_AgePolicy" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.divert.byEnum_AgePolicy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivertByIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.divert.byIf.DivertByIf" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.divert.byIf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivertBySwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicGrammar.divert.bySwitch.DivertBySwitch" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicGrammar.divert.bySwitch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DivertByIf" />
+        <item itemvalue="Application.DivertBySwitch" />
+        <item itemvalue="Application.DivertByEnum" />
+        <item itemvalue="Application.DivertByEnum_AgePolicy" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,8 +130,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667983048540</updated>
-      <workItem from="1667983050593" duration="495000" />
+      <workItem from="1667983050593" duration="2186000" />
+      <workItem from="1667988573947" duration="76000" />
+      <workItem from="1667988705959" duration="739000" />
+      <workItem from="1668038117231" duration="456000" />
+      <workItem from="1668038576373" duration="27954000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1667983582114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667983582114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,10 +154,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
