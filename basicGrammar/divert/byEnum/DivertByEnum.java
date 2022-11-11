@@ -19,12 +19,5 @@ public class DivertByEnum {
             Banking bank = Banking.of(opnum);
             bank.operation();
         }
-
-
-
-
-
-
-
     }
 }
