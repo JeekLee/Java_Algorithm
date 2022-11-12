@@ -1,4 +1,4 @@
-package basicGrammar.object_class;
+package basicGrammar.object_class.extended_class;
 
 public class ExtendedCar extends Car {
     ExtendedCar(){
