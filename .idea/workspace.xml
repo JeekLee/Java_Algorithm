@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb1e64a9-1000-40a7-b96c-4adc76267d9c" name="Changes" comment="221112 Algorithm programmers">
-      <change afterPath="$PROJECT_DIR$/src/programmers/cesarpassword/CesarPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/cesarpassword/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/hate_same/HateSame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/hate_same/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/id_recommend/IdRecommend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/id_recommend/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/lotto/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/lotto/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/make_primenum/MakePrimenum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/make_primenum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/math_loser/MathLoser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/math_loser/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/min_rectangle/MinRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/min_rectangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/plus_primenum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/plus_two/PlusTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/plus_two/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/reverse_string/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/reverse_string/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/reversed_ternary/ReversedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/reversed_ternary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/sort_string/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/sort_string/SortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/string_num_eng/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/string_num_eng/StringNumEng.java" afterDir="false" />
+    <list default="true" id="fb1e64a9-1000-40a7-b96c-4adc76267d9c" name="Changes" comment="221122 Algorithm programmers">
+      <change afterPath="$PROJECT_DIR$/src/basicGrammar/object_class/object_override.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +52,7 @@
       <recent name="basicGrammar.divert.byIf" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.object_override">
     <configuration name="CesarPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.programmers.cesarpassword.CesarPassword" />
       <module name="Java_Algorithm" />
@@ -129,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringNumEng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.programmers.string_num_eng.StringNumEng" />
+    <configuration name="object_override" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basicGrammar.object_class.object_override" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.programmers.string_num_eng.*" />
+          <option name="PATTERN" value="src.basicGrammar.object_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.object_override" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PlusPrimeNum" />
         <item itemvalue="Application.IdRecommend" />
         <item itemvalue="Application.CesarPassword" />
-        <item itemvalue="Application.StringNumEng" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +149,7 @@
       <workItem from="1668765384569" duration="11039000" />
       <workItem from="1668817624615" duration="5648000" />
       <workItem from="1668991129358" duration="31300000" />
-      <workItem from="1669079441321" duration="6140000" />
+      <workItem from="1669079441321" duration="19657000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1667983582114</created>
@@ -224,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668779110690</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="221122 Algorithm programmers">
+      <created>1669100482292</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669100482292</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +243,8 @@
     <MESSAGE value="221112 Algorithm, Class, Inheritance" />
     <MESSAGE value="221112 Abstract Class" />
     <MESSAGE value="221112 Algorithm programmers" />
-    <option name="LAST_COMMIT_MESSAGE" value="221112 Algorithm programmers" />
+    <MESSAGE value="221122 Algorithm programmers" />
+    <option name="LAST_COMMIT_MESSAGE" value="221122 Algorithm programmers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
